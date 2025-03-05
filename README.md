@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @holypio from Italy 🇮🇹
 - 👀 I’m interested in Web Development. 
-- 🌱 I’m currently improve my Back End skills.
 - 💞️ I’m looking to collaborate on - not available -.
 - 📫 How to reach me: fsamperna@gmail.com
 
